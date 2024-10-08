@@ -1,0 +1,214 @@
+{
+    "jobs": [
+      {
+        "id": "J1",
+        "title": "Remote Customer Service Representative",
+        "company": "HelpDesk Solutions",
+        "description": "Provide exceptional customer support via phone and chat from the comfort of your home. You will assist customers with inquiries, troubleshoot issues, and ensure a positive customer experience while adhering to company policies and guidelines. Ideal candidates should possess strong communication skills and a customer-oriented attitude.",
+        "image": "https://example.com/customer-service-representative.png",
+        "location": "Remote",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "1 day ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Indeed",
+            "url": "https://www.indeed.com/viewjob?jk=customer-service-representative"
+          }
+        ]
+      },
+      {
+        "id": "J2",
+        "title": "Data Entry Clerk",
+        "company": "OfficeWorks",
+        "description": "Assist with data entry and administrative tasks in a supportive work environment. Responsibilities include inputting data into systems, maintaining organized records, and assisting team members with various administrative duties. Candidates should be detail-oriented and proficient in data management software.",
+        "image": "https://example.com/data-entry-clerk.png",
+        "location": "Bangalore, India",
+        "employmentType": "Part-time",
+        "timeAgoPosted": "2 days ago",
+        "jobProviders": [
+          {
+            "jobProvider": "ZipRecruiter",
+            "url": "https://www.ziprecruiter.com/job/data-entry-clerk"
+          }
+        ]
+      },
+      {
+        "id": "J3",
+        "title": "Graphic Designer",
+        "company": "Creative Minds Agency",
+        "description": "Design marketing materials and branding for clients, fostering an inclusive creative team. You will collaborate with other designers and clients to bring their visions to life, ensuring that all designs align with branding strategies and meet client expectations. Proficiency in graphic design software and a strong portfolio are essential.",
+        "image": "https://example.com/graphic-designer.png",
+        "location": "Remote",
+        "employmentType": "Contract",
+        "timeAgoPosted": "3 days ago",
+        "jobProviders": [
+          {
+            "jobProvider": "LinkedIn",
+            "url": "https://www.linkedin.com/jobs/view/graphic-designer-at-creative-minds-agency"
+          }
+        ]
+      },
+      {
+        "id": "J4",
+        "title": "Accessibility Tester",
+        "company": "Tech for All",
+        "description": "Test software applications for accessibility compliance and user experience for people with disabilities. Your role will involve analyzing software products to ensure they meet accessibility standards, conducting user testing, and providing feedback to development teams for improvements. A keen understanding of accessibility guidelines is required.",
+        "image": "https://example.com/accessibility-tester.png",
+        "location": "Remote",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "4 days ago",
+        "jobProviders": [
+          {
+            "jobProvider": "SimplyHired",
+            "url": "https://www.simplyhired.com/job/accessibility-tester"
+          }
+        ]
+      },
+      {
+        "id": "J5",
+        "title": "Content Writer",
+        "company": "Inclusion News Network",
+        "description": "Write articles and create content focused on disability awareness and advocacy. This role involves researching topics, interviewing sources, and crafting compelling narratives that engage readers and promote understanding of disability issues. Candidates should have a strong writing background and a passion for social justice.",
+        "image": "https://example.com/content-writer.png",
+        "location": "Remote",
+        "employmentType": "Freelance",
+        "timeAgoPosted": "5 days ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Upwork",
+            "url": "https://www.upwork.com/job/content-writer"
+          }
+        ]
+      },
+      {
+        "id": "J6",
+        "title": "Community Outreach Specialist",
+        "company": "Empowerment Nonprofit",
+        "description": "Engage with the community to promote accessibility initiatives and services. This role involves developing outreach strategies, organizing community events, and building relationships with local organizations to enhance service visibility. Strong interpersonal skills and a commitment to community service are essential.",
+        "image": "https://example.com/community-outreach-specialist.png",
+        "location": "Chicago, IL",
+        "employmentType": "Part-time",
+        "timeAgoPosted": "1 week ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Indeed",
+            "url": "https://www.indeed.com/viewjob?jk=community-outreach-specialist"
+          }
+        ]
+      },
+      {
+        "id": "J7",
+        "title": "Technical Support Specialist",
+        "company": "Accessible Tech Solutions",
+        "description": "Provide technical assistance and support for assistive technology products. Responsibilities include troubleshooting customer issues, providing product demonstrations, and assisting with technical training. Candidates should have strong technical skills and a passion for improving technology accessibility.",
+        "image": "https://example.com/technical-support-specialist.png",
+        "location": "Remote",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "2 weeks ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Glassdoor",
+            "url": "https://www.glassdoor.com/job/technical-support-specialist"
+          }
+        ]
+      },
+      {
+        "id": "J8",
+        "title": "Virtual Assistant",
+        "company": "Remote Support Team",
+        "description": "Assist with administrative tasks and scheduling for clients from your home. Duties include managing calendars, handling correspondence, and providing general administrative support. Strong organizational skills and the ability to multitask are key requirements for this role.",
+        "image": "https://example.com/virtual-assistant.png",
+        "location": "Remote",
+        "employmentType": "Part-time",
+        "timeAgoPosted": "3 weeks ago",
+        "jobProviders": [
+          {
+            "jobProvider": "FlexJobs",
+            "url": "https://www.flexjobs.com/job/virtual-assistant"
+          }
+        ]
+      },
+      {
+        "id": "J9",
+        "title": "SEO Specialist",
+        "company": "Digital Inclusion Agency",
+        "description": "Optimize website content for search engines while ensuring accessibility standards. The SEO Specialist will analyze website performance, conduct keyword research, and implement SEO strategies to improve organic search visibility. Familiarity with SEO tools and web analytics is required.",
+        "image": "https://example.com/seo-specialist.png",
+        "location": "Remote",
+        "employmentType": "Contract",
+        "timeAgoPosted": "1 month ago",
+        "jobProviders": [
+          {
+            "jobProvider": "LinkedIn",
+            "url": "https://www.linkedin.com/jobs/view/seo-specialist-at-digital-inclusion-agency"
+          }
+        ]
+      },
+      {
+        "id": "J10",
+        "title": "Project Manager",
+        "company": "Diversity Works",
+        "description": "Lead projects focused on disability inclusion and accessibility improvements. Responsibilities include planning, executing, and closing projects, managing budgets, and ensuring that project goals are met on time. Candidates should have strong leadership skills and experience in project management methodologies.",
+        "image": "https://example.com/project-manager.png",
+        "location": "San Francisco, CA",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "2 months ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Glassdoor",
+            "url": "https://www.glassdoor.com/job/project-manager"
+          }
+        ]
+      },
+      {
+        "id": "J10",
+        "title": "Virtual Assistant",
+        "company": "Diversity Works",
+        "description": "Lead projects focused on disability inclusion and accessibility improvements. Responsibilities include planning, executing, and closing projects, managing budgets, and ensuring that project goals are met on time. Candidates should have strong leadership skills and experience in project management methodologies.",
+        "image": "https://example.com/project-manager.png",
+        "location": "San Francisco, CA",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "2 months ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Glassdoor",
+            "url": "https://www.glassdoor.com/job/project-manager"
+          }
+        ]
+      }
+      ,{
+        "id": "J10",
+        "title": "Technical Support Specialist",
+        "company": "Diversity Works",
+        "description": "Lead projects focused on disability inclusion and accessibility improvements. Responsibilities include planning, executing, and closing projects, managing budgets, and ensuring that project goals are met on time. Candidates should have strong leadership skills and experience in project management methodologies.",
+        "image": "https://example.com/project-manager.png",
+        "location": "San Francisco, CA",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "2 months ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Glassdoor",
+            "url": "https://www.glassdoor.com/job/project-manager"
+          }
+        ]
+      },
+      {
+        "id": "J10",
+        "title": "Accessibility Tester",
+        "company": "Diversity Works",
+        "description": "Lead projects focused on disability inclusion and accessibility improvements. Responsibilities include planning, executing, and closing projects, managing budgets, and ensuring that project goals are met on time. Candidates should have strong leadership skills and experience in project management methodologies.",
+        "image": "https://example.com/project-manager.png",
+        "location": "San Francisco, CA",
+        "employmentType": "Fulltime",
+        "timeAgoPosted": "2 months ago",
+        "jobProviders": [
+          {
+            "jobProvider": "Glassdoor",
+            "url": "https://www.glassdoor.com/job/project-manager"
+          }
+        ]
+      }
+
+    ]
+  }
+  
